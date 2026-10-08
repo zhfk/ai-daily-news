@@ -1,0 +1,100 @@
+{
+  "mode": "rss-template",
+  "cutoff": "2026-10-08T17:17:49.497393+08:00",
+  "sources": [
+    {
+      "source": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "NVIDIA",
+      "url": "https://blogs.nvidia.com/feed/",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "status": "ok",
+      "candidates": 2
+    },
+    {
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/feed/",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "status": "ok",
+      "candidates": 0
+    }
+  ],
+  "articles": [
+    {
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "excerpt": "NVIDIA RTX Spark pre-orders open October 16, and DGX Station for Windows brings GB300 AI infrastructure to the enterprise desktop.",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "source": "NVIDIA",
+      "official": true,
+      "published": "2026-10-07T18:45:28+00:00",
+      "page_published": [
+        "2026-10-07T18:45:28+00:00",
+        "2026-10-07T18:45:28+00:00",
+        "2026-10-07T18:45:28+00:00"
+      ],
+      "category": "算力与部署",
+      "advice": "检查公开规格、供货时间、能耗和实际采购成本，使用自己的工作负载评估吞吐与延迟；不要直接沿用厂商性能结论。"
+    },
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "excerpt": "A Blog post by Liquid AI on Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face",
+      "official": true,
+      "published": "2026-10-07T16:54:33+00:00",
+      "page_published": [
+        "2026-10-07T16:54:33.022000+00:00"
+      ],
+      "category": "模型与产品",
+      "advice": "打开官方文档核对可用区域、许可、价格及上线状态，再用自己的样例做小规模评估；原文中的比较结果不等于独立测试。"
+    },
+    {
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "excerpt": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them:",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+      "source": "Microsoft Research",
+      "official": true,
+      "published": "2026-10-07T16:00:00+00:00",
+      "page_published": [
+        "2026-10-07T16:00:00+00:00",
+        "2026-10-07T16:00:00+00:00",
+        "2026-10-07T16:00:00+00:00"
+      ],
+      "category": "科研与机器人",
+      "advice": "先阅读论文和实验设置，区分预印本与同行评审；优先检查代码、数据和复现实验，确认结果是否适用于实际场景。"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "excerpt": "A Blog post by NVIDIA on Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face",
+      "official": true,
+      "published": "2026-10-07T12:45:31+00:00",
+      "page_published": [
+        "2026-10-07T12:45:31.208000+00:00"
+      ],
+      "category": "模型与产品",
+      "advice": "打开官方文档核对可用区域、许可、价格及上线状态，再用自己的样例做小规模评估；原文中的比较结果不等于独立测试。"
+    }
+  ]
+}
