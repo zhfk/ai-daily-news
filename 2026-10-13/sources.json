@@ -1,0 +1,74 @@
+{
+  "mode": "rss-template",
+  "cutoff": "2026-10-13T11:24:40.793599+08:00",
+  "sources": [
+    {
+      "source": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "NVIDIA",
+      "url": "https://blogs.nvidia.com/feed/",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/feed/",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "status": "ok",
+      "candidates": 0
+    }
+  ],
+  "articles": [
+    {
+      "title": "Simulating student learning for better AI tutoring",
+      "excerpt": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics:",
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
+      "source": "Microsoft Research",
+      "official": true,
+      "published": "2026-10-12T16:00:00+00:00",
+      "page_published": [
+        "2026-10-12T16:00:00+00:00",
+        "2026-10-12T16:00:00+00:00",
+        "2026-10-12T16:00:00+00:00"
+      ],
+      "category": "科研与机器人",
+      "advice": "先阅读论文和实验设置，区分预印本与同行评审；优先检查代码、数据和复现实验，确认结果是否适用于实际场景。"
+    },
+    {
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "excerpt": "Cisco, Google, Meta, Microsoft and Visionbay are joining many making advances with Vera Rubin.",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
+      "source": "NVIDIA",
+      "official": true,
+      "published": "2026-10-12T15:00:25+00:00",
+      "page_published": [
+        "2026-10-12T15:00:25+00:00",
+        "2026-10-12T15:00:25+00:00",
+        "2026-10-12T15:00:25+00:00"
+      ],
+      "category": "算力与部署",
+      "advice": "检查公开规格、供货时间、能耗和实际采购成本，使用自己的工作负载评估吞吐与延迟；不要直接沿用厂商性能结论。"
+    }
+  ]
+}
