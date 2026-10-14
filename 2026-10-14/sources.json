@@ -1,0 +1,100 @@
+{
+  "mode": "rss-template",
+  "cutoff": "2026-10-14T09:41:35.193753+08:00",
+  "sources": [
+    {
+      "source": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "NVIDIA",
+      "url": "https://blogs.nvidia.com/feed/",
+      "status": "ok",
+      "candidates": 2
+    },
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/feed/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "status": "ok",
+      "candidates": 0
+    }
+  ],
+  "articles": [
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "excerpt": "A Blog post by Liquid AI on Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face",
+      "official": true,
+      "published": "2026-10-13T17:05:48+00:00",
+      "page_published": [
+        "2026-10-13T17:05:48.636000+00:00"
+      ],
+      "category": "Agent 与交互",
+      "advice": "用小范围任务测试权限控制、错误恢复、延迟与人工接管，明确测试数据和真实业务数据的边界。"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "excerpt": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+      "source": "Google AI",
+      "official": true,
+      "published": "2026-10-13T16:00:00+00:00",
+      "page_published": [
+        "2026-10-13T16:00:00+00:00"
+      ],
+      "category": "模型与产品",
+      "advice": "打开官方文档核对可用区域、许可、价格及上线状态，再用自己的样例做小规模评估；原文中的比较结果不等于独立测试。"
+    },
+    {
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "excerpt": "Nemotron 3.5 Bolt, NVIDIA PAIR and NVIDIA Broadcast 2.3 adding to the thousands of apps, games and models ready for RTX Spark launch on Friday, Oct. 16.",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
+      "source": "NVIDIA",
+      "official": true,
+      "published": "2026-10-13T12:00:49+00:00",
+      "page_published": [
+        "2026-10-13T12:00:49+00:00",
+        "2026-10-13T12:00:49+00:00",
+        "2026-10-13T12:00:49+00:00"
+      ],
+      "category": "算力与部署",
+      "advice": "检查公开规格、供货时间、能耗和实际采购成本，使用自己的工作负载评估吞吐与延迟；不要直接沿用厂商性能结论。"
+    },
+    {
+      "title": "NVIDIA Announces New Investments in France’s Startups",
+      "excerpt": "French companies are putting NVIDIA infrastructure and open models to work across all industries, from satellites in orbit to cosmetics in corner stores.",
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing",
+      "source": "NVIDIA",
+      "official": true,
+      "published": "2026-10-13T05:00:31+00:00",
+      "page_published": [
+        "2026-10-13T05:00:31+00:00",
+        "2026-10-13T05:00:31+00:00",
+        "2026-10-13T05:00:31+00:00"
+      ],
+      "category": "算力与部署",
+      "advice": "检查公开规格、供货时间、能耗和实际采购成本，使用自己的工作负载评估吞吐与延迟；不要直接沿用厂商性能结论。"
+    }
+  ]
+}
