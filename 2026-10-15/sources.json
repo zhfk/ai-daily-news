@@ -1,0 +1,74 @@
+{
+  "mode": "rss-template",
+  "cutoff": "2026-10-15T09:17:28.243673+08:00",
+  "sources": [
+    {
+      "source": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "NVIDIA",
+      "url": "https://blogs.nvidia.com/feed/",
+      "status": "ok",
+      "candidates": 2
+    },
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/feed/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "status": "ok",
+      "candidates": 0
+    }
+  ],
+  "articles": [
+    {
+      "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+      "excerpt": "UK organizations across healthcare, finance, local government and climate science are putting NVIDIA AI to work.",
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
+      "source": "NVIDIA",
+      "official": true,
+      "published": "2026-10-14T06:04:15+00:00",
+      "page_published": [
+        "2026-10-14T06:04:15+00:00",
+        "2026-10-14T06:04:15+00:00",
+        "2026-10-14T06:04:15+00:00"
+      ],
+      "category": "算力与部署",
+      "advice": "检查公开规格、供货时间、能耗和实际采购成本，使用自己的工作负载评估吞吐与延迟；不要直接沿用厂商性能结论。"
+    },
+    {
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "excerpt": "Across the region, local software, infrastructure and integration partners are using NVIDIA accelerated computing and models to build agentic applications that improve city operations and public services.",
+      "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
+      "source": "NVIDIA",
+      "official": true,
+      "published": "2026-10-14T06:00:28+00:00",
+      "page_published": [
+        "2026-10-14T06:00:28+00:00",
+        "2026-10-14T06:00:28+00:00",
+        "2026-10-14T06:00:28+00:00"
+      ],
+      "category": "算力与部署",
+      "advice": "检查公开规格、供货时间、能耗和实际采购成本，使用自己的工作负载评估吞吐与延迟；不要直接沿用厂商性能结论。"
+    }
+  ]
+}
