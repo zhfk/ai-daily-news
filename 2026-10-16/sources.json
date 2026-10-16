@@ -1,0 +1,89 @@
+{
+  "mode": "rss-template",
+  "cutoff": "2026-10-16T09:03:30.415476+08:00",
+  "sources": [
+    {
+      "source": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "NVIDIA",
+      "url": "https://blogs.nvidia.com/feed/",
+      "status": "ok",
+      "candidates": 3
+    },
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/feed/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "status": "ok",
+      "candidates": 0
+    }
+  ],
+  "articles": [
+    {
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "excerpt": "Explore a new era of local AI, join launch celebrations around the world and #ShareYourSpark.",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+      "source": "NVIDIA",
+      "official": true,
+      "published": "2026-10-15T17:00:23+00:00",
+      "page_published": [
+        "2026-10-15T17:00:23+00:00",
+        "2026-10-15T17:00:23+00:00",
+        "2026-10-15T17:00:23+00:00"
+      ],
+      "category": "算力与部署",
+      "advice": "检查公开规格、供货时间、能耗和实际采购成本，使用自己的工作负载评估吞吐与延迟；不要直接沿用厂商性能结论。"
+    },
+    {
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "excerpt": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "source": "NVIDIA",
+      "official": true,
+      "published": "2026-10-15T15:00:24+00:00",
+      "page_published": [
+        "2026-10-15T15:00:24+00:00",
+        "2026-10-15T15:00:24+00:00",
+        "2026-10-15T15:00:24+00:00"
+      ],
+      "category": "算力与部署",
+      "advice": "检查公开规格、供货时间、能耗和实际采购成本，使用自己的工作负载评估吞吐与延迟；不要直接沿用厂商性能结论。"
+    },
+    {
+      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "excerpt": "NVIDIA’s participation in the European Commission’s AI in Science Enablers Initiative deepens its commitment to supporting the pursuit of scientific progress across the region.",
+      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
+      "source": "NVIDIA",
+      "official": true,
+      "published": "2026-10-15T10:00:12+00:00",
+      "page_published": [
+        "2026-10-15T10:00:12+00:00",
+        "2026-10-15T10:00:12+00:00",
+        "2026-10-15T10:00:12+00:00"
+      ],
+      "category": "算力与部署",
+      "advice": "检查公开规格、供货时间、能耗和实际采购成本，使用自己的工作负载评估吞吐与延迟；不要直接沿用厂商性能结论。"
+    }
+  ]
+}
