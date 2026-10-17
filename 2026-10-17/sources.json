@@ -1,0 +1,43 @@
+{
+  "mode": "rss-template",
+  "cutoff": "2026-10-17T09:10:16.154994+08:00",
+  "sources": [
+    {
+      "source": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "NVIDIA",
+      "url": "https://blogs.nvidia.com/feed/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/feed/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "status": "ok",
+      "candidates": 0
+    }
+  ],
+  "articles": []
+}
