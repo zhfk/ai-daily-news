@@ -1,0 +1,59 @@
+{
+  "mode": "rss-template",
+  "cutoff": "2026-10-18T08:43:05.943592+08:00",
+  "sources": [
+    {
+      "source": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "NVIDIA",
+      "url": "https://blogs.nvidia.com/feed/",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/feed/",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "status": "ok",
+      "candidates": 0
+    }
+  ],
+  "articles": [
+    {
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "excerpt": "NVIDIA celebrates the arrival of RTX Spark with retail launch events around the world, bringing gamers, creators and AI enthusiasts together for hands-on experiences.",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+      "source": "NVIDIA",
+      "official": true,
+      "published": "2026-10-17T21:00:13+00:00",
+      "page_published": [
+        "2026-10-17T21:00:13+00:00",
+        "2026-10-17T21:00:13+00:00",
+        "2026-10-17T21:00:13+00:00"
+      ],
+      "category": "算力与部署",
+      "advice": "检查公开规格、供货时间、能耗和实际采购成本，使用自己的工作负载评估吞吐与延迟；不要直接沿用厂商性能结论。"
+    }
+  ]
+}
